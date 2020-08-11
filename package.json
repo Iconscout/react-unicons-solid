@@ -1,7 +1,7 @@
 {
   "name": "@iconscout/react-unicons-solid",
   "version": "0.0.1",
-  "description": "1100+ vector icons as easy to use React Components",
+  "description": "1100+ vector solid icons as easy to use React Components",
   "main": "./lib/cjs/index.js",
   "module": "/index.js",
   "sideEffects": false,

@@ -1,4 +1,4 @@
-# React Unicons
+# React Unicons Solid
 
 1000+ Pixel-perfect vector icons as React Components. These icons are designed by [Iconscout](https://iconscout.com).
 
