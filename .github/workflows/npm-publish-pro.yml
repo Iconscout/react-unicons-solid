@@ -19,5 +19,5 @@ jobs:
           NPM_TOKEN: ${{ secrets.FURY_AUTH_TOKEN }}
       - name: Download & Build Icons
         run: npm ci --progress=false && npm i @iconscout/unicons@latest && npm run generate
-      - name: Publish to NPM
+      - name: Publish to Gemfury
         run: npm publish
