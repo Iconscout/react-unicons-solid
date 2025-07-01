@@ -16,12 +16,6 @@
     "type": "git",
     "url": "git+https://github.com/Iconscout/react-unicons-solid.git"
   },
-  "peerDependencies": {
-    "react": ">=15.0.0 <17.0.0"
-  },
-  "dependencies": {
-    "react": ">=15.0.0 <17.0.0"
-  },
   "keywords": [
     "unicons",
     "react-unicons-solid",
@@ -43,5 +37,11 @@
     "uppercamelcase": "^3.0.0",
     "webpack": "^5.96.1",
     "webpack-cli": "^5.1.4"
+  },
+  "dependencies": {
+    "prop-types": "^15.8.1"
+  },
+  "peerDependencies": {
+    "react": ">=15.0.0 <20.0.0"
   }
 }

@@ -2,3 +2,5 @@ node_modules
 lib
 
 .npmrc
+.DS_Store
+.env
